@@ -16,10 +16,8 @@ Developed as part of a Numerical Geometry project at the University of Strasbour
 
 ## Preview
 
-*Add your screenshots or GIFs here.*
-
 ```md
-![Preview](images/demo.png)
+![Preview](./images/demo.png)
 ```
 
 ---
