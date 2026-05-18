@@ -71,8 +71,6 @@ cmake --build build -j4
 
 ---
 
-## Authors
+## Author
 
 * Nicolas Ventadoux
-* Lucas Smati
-* Ugo Berton
