@@ -16,9 +16,9 @@ Developed as part of a Numerical Geometry project at the University of Strasbour
 
 ## Preview
 
-```md
-![Preview](./images/demo.png)
-```
+<p align="center">
+  <img src="./images/demo.png" width="800"/>
+</p>
 
 ---
 
