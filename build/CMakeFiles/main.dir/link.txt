@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/Creation_Primitive.cpp.o CMakeFiles/main.dir/src/SDF.cpp.o -o main  /usr/lib/x86_64-linux-gnu/libOpenGL.so libimguizmo.a libimgui.a _deps/glfw-build/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm _deps/glad-build/libglad.a -ldl 
